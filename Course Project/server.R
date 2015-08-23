@@ -5,7 +5,7 @@
 #
 library(shiny)
 
-travelTime <- function(speedSMPH) 2462 / speedSMPH
+travelTime <- function(speedSMPH) 2437 / speedSMPH
 
 shinyServer(
         function(input, output) {
