@@ -1,0 +1,9 @@
+## Travel Time Predictor
+
+This shiny application predicts the travel time between New York, New York,              
+and Los Angeles, a distance of 2,462 statute miles.
+
+Enter the speed in statute miles per hour.
+
+The output is a decimal number indicating hours of travel time from New York      
+to Los Angeles.
