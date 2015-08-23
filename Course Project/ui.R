@@ -31,7 +31,7 @@ shinyUI(
                                 " Hours"
                                 
                         )),
-                tabPanel("About",
+                tabPanel("Documentation",
                          mainPanel(
                                  includeMarkdown("about.Rmd")
                          ))
